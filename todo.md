@@ -8,7 +8,18 @@
 - [ ] [[widget]
 - [ ] [[play]]
 - [ ] [[streamuri]]
-- [ ] 
+- [ ] #react
+- [ ] #reactnative
+- [ ] #android
+- [ ] #swift
+- [ ] [[ui]]
+- [ ] [[mediaplayer]]
+- [ ] [[radiostream]]
+- [ ] [[videostream]]
+  [[mediaplayer]]
+  #mediaplayerapi
+  
+
 - [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
   - [ ] You can also select multiple lines and mark them all at once!
 - [ ] When you press enter at the end of a line, it adds a new todo item on the next line
