@@ -4,4 +4,4 @@ Collaborations with other code enthusiasts!
 
 ## Idea - combining solid back end programming with some fun front end! 
 
-Making an audio streaming app that plays when screen is locked
+Making an audio streaming app that plays when screen is locked on react native
